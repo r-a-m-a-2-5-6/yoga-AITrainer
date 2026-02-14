@@ -1,0 +1,5 @@
+yoga-env/
+node_modules/
+__pycache__/
+.env
+dist/
