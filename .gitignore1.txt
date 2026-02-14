@@ -1,8 +1,0 @@
-node_modules/
-yoga-env/
-__pycache__/
-dist/
-.env
-*.log
-.DS_Store
-.vscode/
